@@ -41,8 +41,9 @@ To deploy the GameHub app to a production environment, follow these steps:
 
 - React: TypeScript library for building user interfaces
 - Axios: Promise-based HTTP client for making API requests
-- TypeScript
+- Vite: Next Generation Frontend Tooling
 - Chakra UI: Library for building user interfaces
+- TypeScript: (ts & tsx)
 
 ## Authors
 
