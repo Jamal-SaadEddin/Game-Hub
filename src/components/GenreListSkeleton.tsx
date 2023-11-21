@@ -2,7 +2,6 @@ import {
   HStack,
   List,
   ListItem,
-  Skeleton,
   SkeletonCircle,
   SkeletonText,
 } from "@chakra-ui/react";
